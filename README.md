@@ -19,14 +19,14 @@ Priklad vyslednej databazy:
 
 alebo:
 
-```
+```JSON
 [
     {
         "sport": "Terno dňa",
         "liga": "Futbal",
         "typEventu": "Zápas",
         "date": "2014-11-25",
-        "competitors": "4 CSKA Moskva-AS Roma                          1:1                  0                  18:00 _ CSKA Moskva-AS Roma (nL) 2.9 3.35 2.5 18:00",
+        "competitors": "4 CSKA Moskva-AS Roma 1:1 0 18:00 _ CSKA Moskva-AS Roma (nL) 2.9 3.35 2.5 18:00",
         "kurz": "2.9",
         "vyherny": "false",
         "poznamka": "1"
@@ -36,7 +36,7 @@ alebo:
         "liga": "Futbal",
         "typEventu": "Zápas",
         "date": "2014-11-25",
-        "competitors": "4 CSKA Moskva-AS Roma                          1:1                  0                  18:00 _ CSKA Moskva-AS Roma (nL) 2.9 3.35 2.5 18:00",
+        "competitors": "4 CSKA Moskva-AS Roma 1:1 0 18:00 _ CSKA Moskva-AS Roma (nL) 2.9 3.35 2.5 18:00",
         "kurz": "3.35",
         "vyherny": "true",
         "poznamka": "0"
@@ -46,7 +46,7 @@ alebo:
         "liga": "Futbal",
         "typEventu": "Zápas",
         "date": "2014-11-25",
-        "competitors": "4 CSKA Moskva-AS Roma                          1:1                  0                  18:00 _ CSKA Moskva-AS Roma (nL) 2.9 3.35 2.5 18:00",
+        "competitors": "4 CSKA Moskva-AS Roma 1: 0 18:00 _ CSKA Moskva-AS Roma (nL) 2.9 3.35 2.5 18:00",
         "kurz": "2.5",
         "vyherny": "false",
         "poznamka": "2"
@@ -56,7 +56,7 @@ alebo:
         "liga": "Hokej",
         "typEventu": "Zápas",
         "date": "2014-11-25",
-        "competitors": "5 Vítkovice-Sparta                             2:2                  0                  17:00 _ Vítkovice-Sparta (nL) 3.05 4.15 2.1 17:00",
+        "competitors": "5 Vítkovice-Sparta 2:2 0 17:00 _ Vítkovice-Sparta (nL) 3.05 4.15 2.1 17:00",
         "kurz": "3.05",
         "vyherny": "false",
         "poznamka": "1"
@@ -66,7 +66,7 @@ alebo:
         "liga": "Hokej",
         "typEventu": "Zápas",
         "date": "2014-11-25",
-        "competitors": "5 Vítkovice-Sparta                             2:2                  0                  17:00 _ Vítkovice-Sparta (nL) 3.05 4.15 2.1 17:00",
+        "competitors": "5 Vítkovice-Sparta 2:2 0 17:00 _ Vítkovice-Sparta (nL) 3.05 4.15 2.1 17:00",
         "kurz": "4.15",
         "vyherny": "true",
         "poznamka": "0"
@@ -76,7 +76,7 @@ alebo:
         "liga": "Hokej",
         "typEventu": "Zápas",
         "date": "2014-11-25",
-        "competitors": "5 Vítkovice-Sparta                             2:2                  0                  17:00 _ Vítkovice-Sparta (nL) 3.05 4.15 2.1 17:00",
+        "competitors": "5 Vítkovice-Sparta 2:2 0 17:00 _ Vítkovice-Sparta (nL) 3.05 4.15 2.1 17:00",
         "kurz": "2.1",
         "vyherny": "false",
         "poznamka": "2"
