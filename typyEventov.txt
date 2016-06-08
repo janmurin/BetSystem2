@@ -1,0 +1,180 @@
+﻿0-15 minúta zápasu
+0-30 minúta zápasu
+0-60 minúta zápasu
+0-75 minúta zápasu
+1.gól
+1.gól - minuta
+1.gól/zápas
+1.hráč vyhrá aspoň set
+1.kolo kto lepší
+1.pol. počet gólov
+1.pol. presný výsledok
+1.poločas/zápas
+1.polčas
+1.polčas handicap
+1.polčas/2.polčas
+1.presilová hra
+1.set
+1.set Počet bodov
+1.set body handicap
+1.set počet bodov
+1.set/zápas
+1.set: počet gamov
+1.tretina
+1.tretina počet gólov
+1.tretina presný výsledok
+1.tretina-oba tímy dajú gól
+1.tretina/zápas
+1.tím 1.gól-minúta
+1.tím dosiahne bodov
+1.tím dosiahne gólov
+1.tím dá gól
+1.tím dá gól v 1.pol.
+1.tím dá gól v 2.pol.
+1.tím dá gól v oboch pol.
+1.tím počet bodov
+1.tím presne gólov
+1.tím rozmedzie gólov
+1.tím vyhrá aspoň jeden polčas
+1.tím vyhrá oba polčasy
+1.tím vyhrá s čistým kontom
+1.štvrtina
+1.štvrtina handicap
+1X2
+2.hráč vyhrá aspoň set
+2.pol. počet gólov
+2.pol. presný výsledok
+2.polčas
+2.set
+2.set Počet bodov
+2.set body handicap
+2.set počet bodov
+2.tretina
+2.tretina menej/viac
+2.tretina počet gólov
+2.tím 1.gól-minúta
+2.tím dosiahne bodov
+2.tím dosiahne gólov
+2.tím dá gól
+2.tím dá gól v 1.pol.
+2.tím dá gól v 2.pol.
+2.tím dá gól v oboch pol.
+2.tím počet bodov
+2.tím presne gólov
+2.tím rozmedzie gólov
+2.tím vyhrá aspoň jeden polčas
+2.tím vyhrá oba polčasy
+2.tím vyhrá s čistým kontom
+3.set
+3.set Počet bodov
+3.set body handicap
+3.set počet bodov
+3.tretina
+3.tretina menej/viac
+3.tretina počet gólov
+Bude kanár
+Celkové umiestnenie
+Dá gól
+Dá gól (60 min.)
+Dá gól (hráč musí nastúpiť v zákl.zostave)
+Favorit o góly
+Handicap
+Handicap 0:1
+Handicap 0:1.5
+Handicap 0:2
+Handicap 0:2.5
+Handicap 0:3
+Handicap 0:3.5
+Handicap 1.5:0
+Handicap 1.pol
+Handicap 1:0
+Handicap 2.5:0
+Handicap 2:0
+Handicap 3:0
+Handicap 1.pol
+Handicap 2.pol
+Kto lepší
+Menej/viac
+Nepadne gól-minuta
+Oba dajú gól v oboch pol.
+Oba tímy dajú gól
+Padne gól v 1.pol.
+Padne gól v 2.pol.
+Padne gól-minuta
+Padne presne gólov
+Pokutový kop
+Polčas s viac gólmi
+Polčas/zápas
+Postup
+Poč.bodov vrát.predl.
+Počet bodov
+Počet bodů
+Počet bodů hráče
+Počet framov
+Počet gamov
+Počet gamov domáci
+Počet gamov hosť
+Počet gólov
+Počet gólov 1.pol.
+Počet gólov 2.pol.
+Počet gólov (60 min.)
+Počet gólov (do rozhodnutia)
+Počet bodov (vrátane predľženia)
+Oba tímy dajú gólov
+Počet rohov
+Počet setov
+Presný výsledok
+Prvý dá 3.gól
+Prvý dá 5.gól
+Prvý gól
+Rozmedzie gólov
+Sety handicap
+Skóre po prvých dvojhrách
+Súčet framov
+Tiebreak v 1.sete
+Tiebreak v 2.sete
+Tiebreak v 3.sete
+Tiebreak v zápase
+Víťaz
+Víťaz vrátane predľženia
+Zahajovací výkop
+Zápas
+Zápas bez remízy
+bude kopať penaltu
+dlhší skok závodu
+gamy handicap
+gól v čase 00:01-08:59
+gól v čase 20:01-26:59
+gól v čase 40:01-46:59
+oba dajú gól v 1.pol.
+oba dajú gól v 2.pol.
+oba tímy dajú gólov
+padne presne gólov
+sety handicap
+viac ŽK
+zápas
+zápas/oba tímy dajú gól
+zápas/počet gamov
+zápas/počet gólov
+Červená karta
+Žltá karta
+Dvojitá šanca
+0-15 minúta zápasu
+Viac roh.kopov
+Špeciál
+Body handicap
+Kto lepší
+Celkové umiestnenie
+Rozmedzie gólov
+Ano - Nie
+Počet bodov zápas
+Body handicap zápas
+počet setov
+Skóre po 2.sete
+Skóre po 3.sete
+počet setů
+Prvý skóruje tím
+1.inning
+Počet bodov hráča
+Handicap (vrátane predľženia)
+Dá gól (do rozhodnutia)

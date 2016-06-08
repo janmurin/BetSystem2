@@ -1,0 +1,294 @@
+                                                                       
+------------------------------------------------------------------------
+Building BetSystem2 1.0
+------------------------------------------------------------------------
+
+--- exec-maven-plugin:1.2.1:exec (default-cli) @ BetSystem2 ---
+
+===========================================================================================
+analyzujem mesiac [2014-11]
+nacitavam subor: 2014-11.json
+subor 2014-11.json nacitany za 1022 ms
+tipovacie dni size: 6
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 0
+prehranych: 555
+PENAZENKA: -555
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 0
+prehranych: 555
+PENAZENKA: -555
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2014-12]
+nacitavam subor: 2014-12.json
+subor 2014-12.json nacitany za 1227 ms
+tipovacie dni size: 26
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 1
+prehranych: 1529
+PENAZENKA: 2698,2
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 1
+prehranych: 2084
+PENAZENKA: 2143,2
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2015-01]
+nacitavam subor: 2015-01.json
+subor 2015-01.json nacitany za 1408 ms
+tipovacie dni size: 31
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 0
+prehranych: 1275
+PENAZENKA: -1275
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 1
+prehranych: 3359
+PENAZENKA: 868,2
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2015-02]
+nacitavam subor: 2015-02.json
+subor 2015-02.json nacitany za 1591 ms
+tipovacie dni size: 24
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 0
+prehranych: 1590
+PENAZENKA: -1590
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 1
+prehranych: 4949
+PENAZENKA: -721,8
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2015-03]
+nacitavam subor: 2015-03.json
+subor 2015-03.json nacitany za 992 ms
+tipovacie dni size: 29
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 2
+prehranych: 2338
+PENAZENKA: 2525,28
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 3
+prehranych: 7287
+PENAZENKA: 1803,47
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2015-04]
+nacitavam subor: 2015-04.json
+subor 2015-04.json nacitany za 1070 ms
+tipovacie dni size: 25
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 0
+prehranych: 2025
+PENAZENKA: -2025
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 3
+prehranych: 9312
+PENAZENKA: -221,53
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2015-05]
+nacitavam subor: 2015-05.json
+subor 2015-05.json nacitany za 930 ms
+tipovacie dni size: 31
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 1
+prehranych: 1784
+PENAZENKA: -3,4
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 4
+prehranych: 11096
+PENAZENKA: -224,93
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2015-06]
+nacitavam subor: 2015-06.json
+subor 2015-06.json nacitany za 521 ms
+tipovacie dni size: 30
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 0
+prehranych: 690
+PENAZENKA: -690
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 4
+prehranych: 11786
+PENAZENKA: -914,93
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2015-07]
+nacitavam subor: 2015-07.json
+subor 2015-07.json nacitany za 406 ms
+tipovacie dni size: 31
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 0
+prehranych: 975
+PENAZENKA: -975
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 4
+prehranych: 12761
+PENAZENKA: -1889,93
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2015-08]
+nacitavam subor: 2015-08.json
+subor 2015-08.json nacitany za 824 ms
+tipovacie dni size: 31
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 47
+prehranych: 1543
+PENAZENKA: 94382,23
+uspesnost: 0,03
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 51
+prehranych: 14304
+PENAZENKA: 92492,3
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2015-09]
+nacitavam subor: 2015-09.json
+subor 2015-09.json nacitany za 1957 ms
+tipovacie dni size: 30
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 0
+prehranych: 2145
+PENAZENKA: -2145
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 51
+prehranych: 16449
+PENAZENKA: 90347,3
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2015-10]
+nacitavam subor: 2015-10.json
+subor 2015-10.json nacitany za 1523 ms
+tipovacie dni size: 30
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 0
+prehranych: 2595
+PENAZENKA: -2595
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 51
+prehranych: 19044
+PENAZENKA: 87752,3
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2015-11]
+nacitavam subor: 2015-11.json
+subor 2015-11.json nacitany za 1579 ms
+tipovacie dni size: 30
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 1
+prehranych: 2294
+PENAZENKA: -395,46
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 52
+prehranych: 21338
+PENAZENKA: 87356,84
+uspesnost: 0
+
+
+===========================================================================================
+analyzujem mesiac [2015-12]
+nacitavam subor: 2015-12.json
+subor 2015-12.json nacitany za 2154 ms
+tipovacie dni size: 28
+===============================================
+vypisujem uspesnost strategie: kombinacie zapasov s vysokymi kurzami
+vyhranych: 0
+prehranych: 1995
+PENAZENKA: -1995
+uspesnost: 0
+
+===============================================
+vypisujem uspesnost strategie: CELKOVA USPESNOST: kombinacie zapasov s vysokymi kurzami
+vyhranych: 52
+prehranych: 23333
+PENAZENKA: 85361,84
+uspesnost: 0
+
+vsetkych eventov: 5064071
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time: 18.795s
+Finished at: Thu Jan 21 23:08:33 CET 2016
+Final Memory: 6M/155M
+------------------------------------------------------------------------
